@@ -27,6 +27,8 @@ public interface RatingService {
     //DELETE
     @DeleteMapping("/ratings/{ratingId}")
     public ResponseEntity<Void> deleteRating(@PathVariable String ratingId);
+
+
     
 
 }

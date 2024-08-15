@@ -1,6 +1,6 @@
 server:
-#  port: 8083
-  port: 9093  #changing port no. for demo of dynamic port no.
+  port: 8083
+#  port: 9093  #changing port no. for demo of dynamic port no.
 
 spring:
   application:
